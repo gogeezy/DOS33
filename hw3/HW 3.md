@@ -17,7 +17,8 @@
 Решение
 1. Создал в virualbox  виртуальную машину с примонтированным образом ubuntu (серверную) 
 2. Установил операционную систему 
-3. ![](3 sudo apt update && sudo apt upgrade.png)
+3. 
+![](3 sudo apt update && sudo apt upgrade.png)
 4. ![](3 sudo apt update && sudo apt upgrade.png)
 5. ![](3 sudo apt update && sudo apt upgrade.png)
 6. ![](3 sudo apt update && sudo apt upgrade.png)![](3 sudo apt update && sudo apt upgrade.png)
