@@ -17,10 +17,10 @@
 Решение
 1. Создал в virualbox  виртуальную машину с примонтированным образом ubuntu (серверную) 
 2. Установил операционную систему 
-3. ![[Pasted image 20260603115346.png]] 
-4. ![[Pasted image 20260603115452.png]]
-5. ![[Pasted image 20260603115519.png]]
-6. ![[Pasted image 20260603115715.png]]![[Pasted image 20260603115723.png]]
+3. ![](3 sudo apt update && sudo apt upgrade.png)
+4. ![](3 sudo apt update && sudo apt upgrade.png)
+5. ![](3 sudo apt update && sudo apt upgrade.png)
+6. ![](3 sudo apt update && sudo apt upgrade.png)![](3 sudo apt update && sudo apt upgrade.png)
 	cat /etc/os-release (как я понимаю подробная информация о системе)
 	lsb_release -a  (информация о системе, но в более кратком виде)
 	uname -m  (архитектура системы)
